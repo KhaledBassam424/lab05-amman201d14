@@ -59,7 +59,7 @@ function sumAndMultiply(a, b, c) {
   return [j[0], m[0],`${a} and ${b} and ${c} sum to ${j[0]}.`,`The product of ${a} and ${b} and ${c} is ${m[0]}.`]
 }
 
-testSumAndMultiply(4,7,5);
+
 
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
